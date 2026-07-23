@@ -267,6 +267,5 @@ cat playout_log.json | python3 -m json.tool | head -50
 
 ---
 
-**Author**: Built with Claude Code (Anthropic)  
 **Language**: Go 1.21  
 **Status**: ✅ VALID on profiles A and B
